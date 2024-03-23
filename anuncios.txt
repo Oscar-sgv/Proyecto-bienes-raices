@@ -1,0 +1,2 @@
+1.  ejecutar comando en la terminal npm i 
+2. ejecutar npx gulp en la terminal para ejecutar el gulp y activar la carpeta build donde se implementaran multiples funciones
